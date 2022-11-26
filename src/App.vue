@@ -42,7 +42,7 @@ export default {
 *{
   margin: 0;
   padding: 0;
-  font-family: cursive;
+  
 }
 main{
   width: 100%;
